@@ -1,7 +1,7 @@
 #Configuration for Eureka :
 spring:
   application:
-    name: Config-Default
+    name: Config-Dev
 
 eureka:
   instance:
