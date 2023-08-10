@@ -1,7 +1,9 @@
 #Configuration for Eureka :
-spring:
-  application:
-    name: Config-Default
+
+# We can change the application name and as many as properties we want from here
+# spring:
+#   application:
+#     name: Config-Default
 
 eureka:
   instance:
